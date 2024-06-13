@@ -1,7 +1,7 @@
 👋 Hi, I’m Ninaad!
 Pronouns: he/him!
 
-I’m interested in Web and Cybersecurity domains.
+I’m interested in Web, Cloud and Cybersecurity domains.
 
 🌱 I’m currently learning Flask and MongoDB.
 
