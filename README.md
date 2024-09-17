@@ -3,7 +3,7 @@ Pronouns: he/him!
 
 I’m interested in Web, Cloud and Cybersecurity domains.
 
-🌱 I’m currently learning Flask and MongoDB.
+🌱 I’m currently into MERN, Flask and MongoDB.
 
 💞️ I’m looking to collaborate on anything! Especially if it is related to DSA, Python, Backend Web Dev or Cybersec!
 
